@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/KLAUS/Desktop/JUPYTER/ML%20Project/MLFLOW/mlruns/0/ac9108dc9d8e4915b217ed8029f84179/artifacts
+end_time: 1750050035996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac9108dc9d8e4915b217ed8029f84179
+run_name: secretive-snail-651
+run_uuid: ac9108dc9d8e4915b217ed8029f84179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750050030584
+status: 3
+tags: []
+user_id: KLAUS

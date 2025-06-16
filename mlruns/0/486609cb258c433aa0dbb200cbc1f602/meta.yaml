@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/KLAUS/Desktop/JUPYTER/ML%20Project/MLFLOW/mlruns/0/486609cb258c433aa0dbb200cbc1f602/artifacts
+end_time: 1750050063679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 486609cb258c433aa0dbb200cbc1f602
+run_name: learned-goose-200
+run_uuid: 486609cb258c433aa0dbb200cbc1f602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750050057716
+status: 3
+tags: []
+user_id: KLAUS

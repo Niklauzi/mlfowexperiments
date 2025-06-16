@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/KLAUS/Desktop/JUPYTER/ML%20Project/MLFLOW/mlruns/0/41ab069dc74f48f08e7879c4c905c9e4/artifacts
+end_time: 1750049874807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41ab069dc74f48f08e7879c4c905c9e4
+run_name: legendary-wren-341
+run_uuid: 41ab069dc74f48f08e7879c4c905c9e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750049869343
+status: 3
+tags: []
+user_id: KLAUS
